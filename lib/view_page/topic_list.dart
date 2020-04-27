@@ -14,7 +14,7 @@ class TopicListPage extends StatelessWidget {
           },
           icon: Icon(Icons.arrow_back_ios,color: Colors.black,size: 22,),
           ),
-        centerTitle: true,
+        centerTitle: false,
         elevation: 0,
         backgroundColor: Colors.white,
       ),
